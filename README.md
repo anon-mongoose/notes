@@ -3,7 +3,7 @@
 Here is some of my personal notes I want to share with the community.
 
 
-The directoriy tree is organized may evolve later.
+The directoriy tree may evolve later.
 
 **Tree view:**
 
