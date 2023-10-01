@@ -11,5 +11,3 @@ The directoriy tree may evolve later.
 
 ## [links/](./links/)
 Some interesting websites I found mainly centered on **Cybersecurity** and **Online Privacy** for now.
-- **[EN/](./links/EN/README.md)** - English description.
-- **[FR/](./links/FR/README.md)** - Description en français.
